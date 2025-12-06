@@ -1,6 +1,5 @@
 Project Title: Optimization of Artificial Neural Networks
 Student Name: Poulomi Pal
-Roll No: 24BCE8026
 
 ------------------------------------------------------------
 📘 Project Description
