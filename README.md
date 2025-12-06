@@ -1,5 +1,5 @@
 Project Title: Optimization of Artificial Neural Networks
-Student Name: Poulomi Pal
+Name: Poulomi Pal
 
 ------------------------------------------------------------
 📘 Project Description
@@ -13,7 +13,7 @@ The results are compared using evaluation metrics such as R², MSE, and RMSE.
 ------------------------------------------------------------
 📂 Folder Structure
 ------------------------------------------------------------
-24bce8026_poulomipal/
+poulomipal/
 │
 ├── ML/
 │   ├── comparison_plot.py   → Generates a bar chart comparing R², MSE, and RMSE across models.
